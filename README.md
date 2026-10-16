@@ -10,6 +10,11 @@ For an educational app where users explore from space down to the ground (and la
 - [Appalachians](zones/appalachians.md)
 - [Amazon](zones/amazon.md)
 - [Tian Shan / Central Asia](zones/tianshan.md)
+- [Deserts (Sahara, Namib, Atacama)](zones/deserts.md)
+- [Tundra (Arctic & Alpine)](zones/tundra.md)
+- [Glaciers & Ice](zones/glaciers.md)
+- [India (Western Ghats & Eastern Himalayas)](zones/india.md)
+- [East Africa (Ethiopian Highlands)](zones/east-africa.md)
 
 ## Layers (planned)
 - Extreme high altitude (>5000 m)
