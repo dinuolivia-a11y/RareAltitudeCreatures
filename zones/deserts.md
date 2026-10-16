@@ -1,18 +1,18 @@
-# Deserts – Rare Creatures (Sahara, Namib, Atacama)
+# Deserts – Rare Creatures (Expanded)
 
-Organized from most extreme / rarest specialists toward somewhat more known desert animals.
+## Hyper-arid specialists
+- Garthia geckos (Atacama) – Multiple cryptic species.
+- Namib Desert Golden Mole (*Eremitalpa granti namibensis*).
+- Saharan Silver Ant (*Cataglyphis bombycina*).
+- Cebrennus rechenbergi (flic-flac spider).
+- Namib web-footed gecko (*Pachydactylus rangei*).
 
-## Hyper-arid specialists (most extreme)
-- **Garthia geckos** (Atacama) – Recently split into multiple cryptic species (*Garthia penaii*, *G. gaudichaudii* and others). Tiny geckos almost identical in appearance but genetically diverged ~20 million years ago. Live in the driest desert on Earth.
-- **Namib Desert Golden Mole** (*Eremitalpa granti namibensis*) – Blind, sand-swimming mammal that moves through loose dune sand. Feeds on invertebrates underground. Extremely specialized.
-- **Saharan Silver Ant** (*Cataglyphis bombycina*) – Active only ~10 minutes per day in the hottest hours. Silvery hairs reflect heat. One of the most heat-tolerant insects known.
-- **Cebrennus rechenbergi** (Saharan flic-flac spider) – Cartwheeling spider that rolls downhill to escape. Discovered in Moroccan Sahara. Highly adapted to extreme heat and sand.
-
-## Highly adapted but slightly less obscure
-- **Péringuey’s Adder** (*Bitis peringueyi*) – Small sidewinding viper of Namib dunes. Buries itself with only eyes visible.
-- **Web-footed gecko** (*Pachydactylus rangei*) – Namib specialist with webbed feet for sand, fog-harvesting adaptations.
-- **Dune Lark** (*Calendulauda erythrochlamys*) – Namibia’s only truly endemic bird, confined to central Namib dunes.
-- **Sand cat** (*Felis margarita*) – The only true desert cat. Fur-lined paws leave almost no tracks. Extremely elusive.
+## Other rare desert specialists
+- Péringuey’s Adder (*Bitis peringueyi*).
+- Dune Lark (*Calendulauda erythrochlamys*).
+- Sand cat (*Felis margarita*).
+- Various fringe-toed lizards (*Acanthodactylus* group) with high cryptic diversity in the Sahara.
+- Atacama nematodes and other soil microfauna that thrive in extreme dryness.
 
 ## Notes
-Deserts hide massive cryptic diversity among lizards, insects and small mammals. Many species still undescribed.
+Deserts have high endemism among small reptiles, insects and subterranean animals.
