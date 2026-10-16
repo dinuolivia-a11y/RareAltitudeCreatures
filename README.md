@@ -15,6 +15,9 @@ For an educational app where users explore from space down to the ground (and la
 - [Glaciers & Ice](zones/glaciers.md)
 - [India (Western Ghats & Eastern Himalayas)](zones/india.md)
 - [East Africa (Ethiopian Highlands)](zones/east-africa.md)
+- [Madagascar](zones/madagascar.md)
+- [New Zealand](zones/new-zealand.md)
+- [Ocean (by depth layers)](zones/ocean.md)
 
 ## Layers (planned)
 - Extreme high altitude (>5000 m)
@@ -22,6 +25,6 @@ For an educational app where users explore from space down to the ground (and la
 - Montane forests
 - Lowland forests
 - Ground / leaf litter / soil
-- (Later) Ocean layers
+- Ocean: Epipelagic → Mesopelagic → Bathypelagic → Abyssal → Hadal
 
 Created for family exploration and wonder.
