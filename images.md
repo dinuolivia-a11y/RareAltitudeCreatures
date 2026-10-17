@@ -6,57 +6,58 @@
 ## Madagascar (10/10)
 ## New Zealand (10/10)
 ## Deserts (10/10)
+## Tundra (10/10)
 
-### 54. Fennec fox (*Vulpes zerda*)
-- **Zona**: Deserts
-- **File**: deserts-fennec-01.jpg
-- **Curiosità**: Ha le orecchie più grandi di qualsiasi altra volpe, per dissipare il calore.
+### 64. Arctic fox (*Vulpes lagopus*)
+- **Zona**: Tundra
+- **File**: tundra-arctic-fox-01.jpg
+- **Curiosità**: Cambia colore con le stagioni, bianco in inverno e marrone in estate.
 
-### 55. Addax (*Addax nasomaculatus*)
-- **Zona**: Deserts
-- **File**: deserts-addax-01.jpg
-- **Curiosità**: Antilope del Sahara in pericolo critico, capace di vivere senza bere per mesi.
+### 65. Snowy owl (*Bubo scandiacus*)
+- **Zona**: Tundra
+- **File**: tundra-snowy-owl-01.jpg
+- **Curiosità**: Grande gufo bianco che caccia anche di giorno.
 
-### 56. Desert tortoise (*Gopherus agassizii*)
-- **Zona**: Deserts
-- **File**: deserts-tortoise-01.jpg
-- **Curiosità**: Può vivere oltre 80 anni e sopravvivere a temperature estreme.
+### 66. Muskox (*Ovibos moschatus*)
+- **Zona**: Tundra
+- **File**: tundra-muskox-01.jpg
+- **Curiosità**: Ha un mantello lunghissimo che lo protegge dal freddo estremo.
 
-### 57. Greater bilby (*Macrotis lagotis*)
-- **Zona**: Deserts
-- **File**: deserts-bilby-01.jpg
-- **Curiosità**: Marsupiale australiano notturno, scavatore eccezionale.
+### 67. Arctic hare (*Lepus arcticus*)
+- **Zona**: Tundra
+- **File**: tundra-arctic-hare-01.jpg
+- **Curiosità**: Diventa completamente bianco in inverno per mimetizzarsi.
 
-### 58. Sand cat (*Felis margarita*)
-- **Zona**: Deserts
-- **File**: deserts-sandcat-01.jpg
-- **Curiosità**: Gatto selvatico del Sahara, con pelo tra le dita per non bruciarsi sulla sabbia calda.
+### 68. Rock ptarmigan (*Lagopus muta*)
+- **Zona**: Tundra
+- **File**: tundra-ptarmigan-01.jpg
+- **Curiosità**: Cambia piumaggio tre volte all’anno.
 
-### 59. Thorny devil (*Moloch horridus*)
-- **Zona**: Deserts
-- **File**: deserts-thornydevil-01.jpg
-- **Curiosità**: Lucertola australiana coperta di spine che raccoglie l’acqua con la pelle.
+### 69. Arctic ground squirrel (*Urocitellus parryii*)
+- **Zona**: Tundra
+- **File**: tundra-ground-squirrel-01.jpg
+- **Curiosità**: Va in letargo profondo, con la temperatura corporea che scende sotto lo zero.
 
-### 60. Arabian oryx (*Oryx leucoryx*)
-- **Zona**: Deserts
-- **File**: deserts-oryx-01.jpg
-- **Curiosità**: Antilope bianca del deserto arabico, simbolo di resistenza.
+### 70. Collared lemming (*Dicrostonyx groenlandicus*)
+- **Zona**: Tundra
+- **File**: tundra-lemming-01.jpg
+- **Curiosità**: Diventa bianco in inverno e ha un collare scuro visibile.
 
-### 61. Gila monster (*Heloderma suspectum*)
-- **Zona**: Deserts
-- **File**: deserts-gila-01.jpg
-- **Curiosità**: Uno dei pochi lucertoloni velenosi al mondo, vive nel deserto di Sonora.
+### 71. Snow bunting (*Plectrophenax nivalis*)
+- **Zona**: Tundra
+- **File**: tundra-snow-bunting-01.jpg
+- **Curiosità**: Piccolo uccello che arriva tra i primi nella tundra in primavera.
 
-### 62. Desert rain frog (*Breviceps macrops*)
-- **Zona**: Deserts
-- **File**: deserts-rainfrog-01.jpg
-- **Curiosità**: Piccola rana del deserto del Namib, con la pelle quasi trasparente.
+### 72. Arctic wolf (*Canis lupus arctos*)
+- **Zona**: Tundra
+- **File**: tundra-arctic-wolf-01.jpg
+- **Curiosità**: Sottospecie di lupo adattata al freddo estremo dell’Artico.
 
-### 63. Saharan silver ant (*Cataglyphis bombycina*)
-- **Zona**: Deserts
-- **File**: deserts-silverant-01.jpg
-- **Curiosità**: Formica che corre a velocità record sulla sabbia rovente.
+### 73. Ivory gull (*Pagophila eburnea*)
+- **Zona**: Tundra
+- **File**: tundra-ivory-gull-01.jpg
+- **Curiosità**: Gabbiano completamente bianco che vive solo nelle regioni artiche.
 
 ---
 
-*Deserts: 10/10 completata.*
+*Tundra: 10/10 completata.*
