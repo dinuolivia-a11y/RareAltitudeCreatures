@@ -86,6 +86,20 @@ Ogni immagine è associata alla creatura, zona e descrizione.
 - **Curiosità breve**: L’unico orso del Sud America. Vive nelle foreste di nebbia e zone andine di media-alta quota.
 - **Descrizione**: Corpo robusto, pelo nerastro con caratteristici segni chiari intorno agli occhi, su roccia muschiosa.
 
+### 12. Andean condor (*Vultur gryphus*)
+- **Zona**: Andes
+- **File**: andean-condor-01.jpg
+- **Stile**: Realistico, scientifico
+- **Curiosità breve**: Uno dei più grandi uccelli volatori. Collare bianco e macchie bianche sulle ali, testa nuda rossastra.
+- **Descrizione**: Grande corpo nero, collare bianco, ali con macchie bianche, testa e collo nudi, becco potente. Su rupe andina.
+
+### 13. High-Andean Pristimantis frog
+- **Zona**: Andes
+- **File**: pristimantis-andean-01.jpg
+- **Stile**: Macro realistico
+- **Curiosità breve**: Diverse specie di rane Pristimantis endemiche delle foreste di nebbia andine, molte descritte di recente.
+- **Descrizione**: Piccola rana robusta con pelle texturizzata in toni terrosi, grandi occhi, su roccia muschiosa.
+
 ---
 
-*Zona Andes: 5 immagini. Continuiamo a completarla.*
+*Zona Andes: 7 immagini. Zona completa come base.*
