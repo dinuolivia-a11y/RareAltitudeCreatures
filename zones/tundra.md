@@ -1,18 +1,25 @@
-# Tundra – Rare Creatures (Arctic & Alpine) – Expanded to 10
+# Tundra – Rare Creatures
 
-## Extreme / recently discovered or highly specialized
-1. **Paramacrobiotus klimaszyki** – New tardigrade species from Svalbard leaf litter. Transparent, eyeless.
-2. Glacier and ice springtails (genus *Desoria* and others) – Live directly on ice surfaces, feed on cold-loving algae.
-3. **Arctic bumblebee** (*Bombus polaris*) – One of the few bees that can forage in near-freezing temperatures.
+Solo specie con nome scientifico preciso e documentazione affidabile.
 
-## Classic specialized tundra animals (still noteworthy)
-4. **Collared lemming** (*Dicrostonyx groenlandicus*) – Turns white in winter, digs under snow.
-5. **Arctic fox** (*Vulpes lagopus*) – Iconic seasonal color change; some populations climate-threatened.
-6. **Rock ptarmigan** (*Lagopus muta*) – Perfectly camouflaged year-round.
-7. **Musk ox** (*Ovibos moschatus*) – Ancient survivor of the Ice Age, dense coat.
-8. **Snowy owl** (*Bubo scandiacus*) – Arctic specialist hunter.
-9. **Arctic hare** (*Lepus arcticus*) – Large ears relative to body for heat regulation in some seasons, white in winter.
-10. High-altitude alpine pikas and marmots in various mountain tundras.
+1. **Draba bruce-bennettii**  
+   Extremely rare alpine draba known from only a few mountain tops in the Yukon (Canada). Recently found further south than previously known.
 
-## Notes
-Tundra still yields new microscopic species. Larger animals are more known but many populations are under pressure.
+2. **Physaria alpina**  
+   Alpine bladderpod endemic to high rocky tundra ridges in central Colorado (USA). Restricted range.
+
+3. **Cochlearia excelsa**  
+   Alpine spoonwort, a rare endemic of the Austrian Central Alps. Lives only in a few high-elevation wet rocky sites (2000–2360 m).
+
+4. **Stellaria pulvinata**  
+   Cushion-forming endemic of the high Altai Mountains. Lives between 2070 and 4000 m in alpine and subnival zones.
+
+5. **Podistera yukonensis**  
+   Yukon podistera, a rare alpine plant of the Yukon. Tracked by conservation data centers.
+
+6. **Erigeron muirii**  
+   Muir’s fleabane, a rare Beringian endemic of Arctic and alpine tundra in Alaska and adjacent areas.
+
+---
+
+*Solo specie precise e documentate. Principalmente piante alpine/artiche rare.*
