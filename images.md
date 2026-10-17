@@ -33,6 +33,20 @@ Ogni immagine è associata alla creatura, zona e descrizione.
 - **Curiosità breve**: Specie di ragno lupo descritta di recente da ghiaioni di alta quota nel sud del Kazakistan.
 - **Descrizione**: Ragno di medie dimensioni, corpo scuro con pattern, zampe lunghe e spinose, su detriti rocciosi.
 
+### 5. High-altitude mole vole (*Ellobius alaicus*)
+- **Zona**: Tian Shan / Pamir-Alay
+- **File**: mole-vole-tian-shan-01.jpg
+- **Stile**: Realistico, scientifico
+- **Curiosità breve**: Roditore sotterraneo di alta quota con forme cromosomiche in rapida evoluzione. Occhi ridotti, vive in gallerie.
+- **Descrizione**: Corpo compatto, pelo morbido grigio-marrone, occhi piccoli, emerge da tana in prateria alpina.
+
+### 6. High-altitude stonefly (Plecoptera, Eastern Tian Shan)
+- **Zona**: Tian Shan
+- **File**: stonefly-tian-shan-01.jpg
+- **Stile**: Macro realistico
+- **Curiosità breve**: Diverse specie di plecotteri poco conosciute sono state registrate di recente nelle catene orientali del Tian Shan.
+- **Descrizione**: Insetto delicato con lunghe antenne e ali ripiegate, su roccia umida vicino a un torrente di alta quota.
+
 ---
 
-*Zona Tian Shan in corso. Prossime creature in arrivo.*
+*Zona Tian Shan: 6 immagini. Prossima zona in arrivo.*
