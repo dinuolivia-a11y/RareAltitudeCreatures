@@ -1,15 +1,31 @@
-# Deserts – 10 Rare Creatures
+# Deserts – Rare Creatures
 
-1. **Namib Desert Golden Mole** (*Eremitalpa granti namibensis*) – Tiny blind subterranean mammal that “swims” through sand. Endemic to the Namib.
-2. **Saharan Silver Ant** (*Cataglyphis bombycina*) – One of the most heat-tolerant animals known. Forages in extreme midday heat.
-3. **Cebrennus rechenbergi** (flic-flac spider) – Cartwheels across the sand to escape predators. Moroccan desert.
-4. **Namib web-footed gecko** (*Pachydactylus rangei*) – Specialized feet for walking on soft dunes. Endemic to the Namib.
-5. **Péringuey’s Adder** (*Bitis peringueyi*) – Sidewinding snake of the Namib dunes. Eyes on top of the head.
-6. **Dune Lark** (*Calendulauda erythrochlamys*) – Endemic bird of the Namib dunes. Perfectly camouflaged.
-7. **Sand cat** (*Felis margarita*) – Small wild cat adapted to deserts. Furry soles for hot sand.
-8. Garthia geckos (Atacama) – Multiple cryptic species of tiny geckos adapted to the driest desert.
-9. Fringe-toed lizards (*Acanthodactylus* group) – High cryptic diversity in the Sahara. Specialized for soft sand.
-10. Atacama nematodes and other soil microfauna – Thrive in extreme dryness where almost nothing else survives.
+Solo specie con nome scientifico preciso e documentazione affidabile. Divise per deserto principale.
 
-## Notes
-Deserts have high endemism among small reptiles, insects and subterranean mammals.
+## Sahara
+1. **Sahara killifish** (*Apricaphanius saourensis*)  
+   Critically endangered tiny fish endemic to the Saoura River system in western Algeria. Possibly rediscovered in 2025 after being thought extinct in the wild.
+
+## Namib
+2. **Welwitschia** (*Welwitschia mirabilis*)  
+   Living fossil plant of the Namib Desert. Only two leaves that grow continuously for its entire life (can live over 1000 years). Endemic to the Namib.
+
+3. **Dune lark** (*Calendulauda erythrochlamys*)  
+   Namibia’s only truly endemic bird. Lives exclusively in the dunes of the central Namib.
+
+4. **Desert rain frog** (*Breviceps macrops*)  
+   Small frog of the coastal southern Namib. Highly localized endemic.
+
+## Atacama
+5. **Garthia penai**  
+   One of the cryptic gecko species of the Atacama Desert. Genetically distinct but visually almost identical to related species. Endemic to the hyper-arid Atacama.
+
+6. **Cyphocarpus perennis**  
+   Perennial plant endemic to the high Andes of the Atacama Desert (Chile). Recently described (2025). Survives in extreme aridity.
+
+7. **Tillandsia landbeckii**  
+   Fog-dependent bromeliad that forms unique linear “lomas” vegetation in the coastal Atacama. Survives almost without rain.
+
+---
+
+*Solo specie precise e documentate. Altre possono essere aggiunte in seguito.*
