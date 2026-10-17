@@ -2,7 +2,7 @@
 
 Ogni immagine è associata alla creatura, zona e descrizione.
 
-## Tian Shan (in completamento a 10)
+## Tian Shan (completata: 10 immagini)
 
 ### 1. Ili pika (*Ochotona iliensis*)
 - **Zona**: Tian Shan (Central Asia)
@@ -47,6 +47,34 @@ Ogni immagine è associata alla creatura, zona e descrizione.
 - **Curiosità breve**: Diverse specie di plecotteri poco conosciute sono state registrate di recente nelle catene orientali del Tian Shan.
 - **Descrizione**: Insetto delicato con lunghe antenne e ali ripiegate, su roccia umida vicino a un torrente di alta quota.
 
+### 7. Tien Shan Apollo butterfly (*Parnassius tianschanicus*)
+- **Zona**: Tian Shan
+- **File**: parnassius-tianshan-01.jpg
+- **Stile**: Realistico, scientifico
+- **Curiosità breve**: Farfalla Apollo endemica delle Tian Shan, con ali bianche e macchie rosse/nere. Vive su pendii rocciosi di alta quota.
+- **Descrizione**: Farfalla di medie dimensioni, ali bianche con macchie rosse e bordi scuri, su fiore alpino.
+
+### 8. High-altitude ground beetle (Carabidae, Tian Shan endemic)
+- **Zona**: Tian Shan
+- **File**: ground-beetle-tian-shan-01.jpg
+- **Stile**: Macro realistico
+- **Curiosità breve**: Diverse specie di coleotteri carabidi endemici delle Tian Shan, adattati ai pendii rocciosi e alle praterie alpine.
+- **Descrizione**: Coleottero scuro e robusto con elitre striate, su roccia di alta quota.
+
+### 9. Tien Shan endemic moth (Eudiaphora tienshanensis or related)
+- **Zona**: Tian Shan
+- **File**: tienshan-moth-01.jpg
+- **Stile**: Macro realistico
+- **Curiosità breve**: Falene endemiche delle Tian Shan, spesso con pattern mimetici su rocce e vegetazione alpina.
+- **Descrizione**: Falena di medie dimensioni con ali marroni e pattern mimetici, posata su roccia.
+
+### 10. Alpine pika relative (Ochotona sp., Tian Shan)
+- **Zona**: Tian Shan
+- **File**: alpine-pika-tian-shan-01.jpg
+- **Stile**: Realistico, scientifico
+- **Curiosità breve**: Diverse specie di pika di alta quota delle Tian Shan, cugine dell’Ili pika ma meno rare.
+- **Descrizione**: Piccolo pika con orecchie corte, pelo grigio-marrone, su rocce alpine.
+
 ---
 
-*Tian Shan: 6/10. Completamento in corso.*
+*Tian Shan: 10/10 completata.*
