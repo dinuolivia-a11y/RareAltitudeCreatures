@@ -5,57 +5,58 @@
 ## Himalayas (10/10)
 ## Madagascar (10/10)
 ## New Zealand (10/10)
+## Deserts (10/10)
 
-### 44. Himalayan jumping spider (*Euophrys omnisuperstes*)
-- **Zona**: Himalayas
-- **File**: himalayas-jumping-spider-01.jpg
-- **Curiosità**: Uno dei ragni che vive più in alto al mondo, sopra i 6000 m.
+### 54. Fennec fox (*Vulpes zerda*)
+- **Zona**: Deserts
+- **File**: deserts-fennec-01.jpg
+- **Curiosità**: Ha le orecchie più grandi di qualsiasi altra volpe, per dissipare il calore.
 
-### 45. Himalayan pika (*Ochotona himalayana*)
-- **Zona**: Himalayas
-- **File**: himalayas-pika-01.jpg
-- **Curiosità**: Piccolo mammifero di alta quota, vive tra le rocce sopra i 4000 m.
+### 55. Addax (*Addax nasomaculatus*)
+- **Zona**: Deserts
+- **File**: deserts-addax-01.jpg
+- **Curiosità**: Antilope del Sahara in pericolo critico, capace di vivere senza bere per mesi.
 
-### 46. Himalayan snowcock (*Tetraogallus himalayensis*)
-- **Zona**: Himalayas
-- **File**: himalayas-snowcock-01.jpg
-- **Curiosità**: Grande uccello grigio con collare castano, vive sopra i 4000 m.
+### 56. Desert tortoise (*Gopherus agassizii*)
+- **Zona**: Deserts
+- **File**: deserts-tortoise-01.jpg
+- **Curiosità**: Può vivere oltre 80 anni e sopravvivere a temperature estreme.
 
-### 47. Snow leopard (*Panthera uncia*)
-- **Zona**: Himalayas
-- **File**: himalayas-snow-leopard-01.jpg
-- **Curiosità**: Il grande felino più elusivo delle alte montagne.
+### 57. Greater bilby (*Macrotis lagotis*)
+- **Zona**: Deserts
+- **File**: deserts-bilby-01.jpg
+- **Curiosità**: Marsupiale australiano notturno, scavatore eccezionale.
 
-### 48. Himalayan monal (*Lophophorus impejanus*)
-- **Zona**: Himalayas
-- **File**: himalayas-monal-01.jpg
-- **Curiosità**: Fagiano dalle piume iridescenti, simbolo del Nepal.
+### 58. Sand cat (*Felis margarita*)
+- **Zona**: Deserts
+- **File**: deserts-sandcat-01.jpg
+- **Curiosità**: Gatto selvatico del Sahara, con pelo tra le dita per non bruciarsi sulla sabbia calda.
 
-### 49. Tibetan sand fox (*Vulpes ferrilata*)
-- **Zona**: Himalayas
-- **File**: himalayas-sand-fox-01.jpg
-- **Curiosità**: Volpe dell’altopiano tibetano, con la faccia squadrata.
+### 59. Thorny devil (*Moloch horridus*)
+- **Zona**: Deserts
+- **File**: deserts-thornydevil-01.jpg
+- **Curiosità**: Lucertola australiana coperta di spine che raccoglie l’acqua con la pelle.
 
-### 50. Himalayan brown bear (*Ursus arctos isabellinus*)
-- **Zona**: Himalayas
-- **File**: himalayas-brown-bear-01.jpg
-- **Curiosità**: Orso di alta quota dal pelo chiaro dorato.
+### 60. Arabian oryx (*Oryx leucoryx*)
+- **Zona**: Deserts
+- **File**: deserts-oryx-01.jpg
+- **Curiosità**: Antilope bianca del deserto arabico, simbolo di resistenza.
 
-### 51. Bearded vulture (*Gypaetus barbatus*)
-- **Zona**: Himalayas
-- **File**: himalayas-bearded-vulture-01.jpg
-- **Curiosità**: Avvoltoio che si nutre di ossa e le lancia da grandi altezze.
+### 61. Gila monster (*Heloderma suspectum*)
+- **Zona**: Deserts
+- **File**: deserts-gila-01.jpg
+- **Curiosità**: Uno dei pochi lucertoloni velenosi al mondo, vive nel deserto di Sonora.
 
-### 52. Himalayan tahr (*Hemitragus jemlahicus*)
-- **Zona**: Himalayas
-- **File**: himalayas-tahr-01.jpg
-- **Curiosità**: Capra selvatica che vive su pendii rocciosi molto ripidi.
+### 62. Desert rain frog (*Breviceps macrops*)
+- **Zona**: Deserts
+- **File**: deserts-rainfrog-01.jpg
+- **Curiosità**: Piccola rana del deserto del Namib, con la pelle quasi trasparente.
 
-### 53. Satyr tragopan (*Tragopan satyra*)
-- **Zona**: Himalayas
-- **File**: himalayas-tragopan-01.jpg
-- **Curiosità**: Fagiano colorato con pelle blu intorno agli occhi.
+### 63. Saharan silver ant (*Cataglyphis bombycina*)
+- **Zona**: Deserts
+- **File**: deserts-silverant-01.jpg
+- **Curiosità**: Formica che corre a velocità record sulla sabbia rovente.
 
 ---
 
-*Himalayas: 10/10 completata.*
+*Deserts: 10/10 completata.*
