@@ -1,15 +1,37 @@
-# Madagascar – 10 Rare & Endemic Creatures
+# Madagascar – Rare Creatures
 
-1. **Spirostreptus sculptus** – Giant millipede lost to science since 1897, rediscovered in Makira Forest in 2023.
-2. **Brookesia nofy** – Tiny leaf chameleon (~33 mm) discovered thanks to tourists. Critically endangered.
-3. **Paragehyra tsaranoro** – New gecko found only in three tiny forest fragments. Micro-endemic and critically endangered.
-4. **Rhombophryne** diamond frogs – Seven new species described in 2026. Secretive, mostly brown with hidden bright markings.
-5. **Kynotus insularis** – New giant earthworm (~80 cm) from Nosy Be, belonging to Madagascar’s endemic earthworm family.
-6. **Voeltzkowia volontany** and **V. shai-hulud** – Two new worm-like burrowing lizards discovered in northern sands. Critically endangered.
-7. **Aye-aye** (*Daubentonia madagascariensis*) – Unique nocturnal lemur with elongated finger. Extremely rare.
-8. **Fossa** (*Cryptoprocta ferox*) – Madagascar’s largest native predator. Elusive and declining.
-9. **Brookesia nana** – One of the world’s smallest chameleons (~22 mm). Endemic and threatened.
-10. Various micro-endemic frogs, geckos and invertebrates still being described from small forest fragments.
+Solo specie con nome scientifico preciso e documentazione affidabile. Tutte endemiche dell’isola.
 
-## Notes
-Madagascar continues to yield dozens of new species every year, especially amphibians, reptiles and invertebrates.
+1. **Aye-aye** (*Daubentonia madagascariensis*)  
+   Nocturnal lemur with long middle finger used for percussive foraging. Extremely distinctive. Critically endangered.
+
+2. **Fossa** (*Cryptoprocta ferox*)  
+   Largest carnivore of Madagascar. Cat-like body, long tail. Apex predator of the forests.
+
+3. **Indri** (*Indri indri*)  
+   Largest living lemur. No tail, distinctive loud calls. Eastern rainforest specialist.
+
+4. **Madame Berthe’s mouse lemur** (*Microcebus berthae*)  
+   Smallest primate in the world. Tiny nocturnal lemur of dry forests in western Madagascar.
+
+5. **Malagasy giant rat** (*Hypogeomys antimena*)  
+   Large monogamous rodent (votsotsa). Restricted to a small area of dry forest north of Morondava. Endangered.
+
+6. **Brookesia nana**  
+   One of the smallest chameleons known. Adult males ~21 mm total length. Northern Madagascar montane forests.
+
+7. **Paragehyra tsaranoro**  
+   Microendemic gecko described in 2025 from small forest fragments in the Tsaranoro valley (southeastern Madagascar). Restricted to a very small range.
+
+8. **White-breasted mesite** (*Mesitornis variegatus*)  
+   Ground-dwelling endemic bird of the unique mesite family. Restricted dry and humid forests.
+
+9. **Helmet vanga** (*Euryceros prevostii*)  
+   Distinctive endemic vanga with large blue bill. Northeastern rainforests.
+
+10. **Madagascar pochard** (*Aythya innotata*)  
+   Critically endangered diving duck. Rediscovered after being thought extinct. Restricted to a few lakes.
+
+---
+
+*Tutte le specie sopra sono endemiche di Madagascar e documentate.*
