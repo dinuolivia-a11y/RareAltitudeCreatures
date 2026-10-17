@@ -7,57 +7,58 @@
 ## New Zealand (10/10)
 ## Deserts (10/10)
 ## Tundra (10/10)
+## Glaciers (10/10)
 
-### 64. Arctic fox (*Vulpes lagopus*)
-- **Zona**: Tundra
-- **File**: tundra-arctic-fox-01.jpg
-- **Curiosità**: Cambia colore con le stagioni, bianco in inverno e marrone in estate.
+### 74. Emperor penguin (*Aptenodytes forsteri*)
+- **Zona**: Glaciers
+- **File**: glaciers-emperor-penguin-01.jpg
+- **Curiosità**: Il pinguino più grande, resiste alle temperature più basse del pianeta.
 
-### 65. Snowy owl (*Bubo scandiacus*)
-- **Zona**: Tundra
-- **File**: tundra-snowy-owl-01.jpg
-- **Curiosità**: Grande gufo bianco che caccia anche di giorno.
+### 75. Weddell seal (*Leptonychotes weddellii*)
+- **Zona**: Glaciers
+- **File**: glaciers-weddell-seal-01.jpg
+- **Curiosità**: Può immergersi oltre 600 metri e restare sott’acqua più di un’ora.
 
-### 66. Muskox (*Ovibos moschatus*)
-- **Zona**: Tundra
-- **File**: tundra-muskox-01.jpg
-- **Curiosità**: Ha un mantello lunghissimo che lo protegge dal freddo estremo.
+### 76. Snow petrel (*Pagodroma nivea*)
+- **Zona**: Glaciers
+- **File**: glaciers-snow-petrel-01.jpg
+- **Curiosità**: Uno degli uccelli più bianchi al mondo, vive solo in Antartide.
 
-### 67. Arctic hare (*Lepus arcticus*)
-- **Zona**: Tundra
-- **File**: tundra-arctic-hare-01.jpg
-- **Curiosità**: Diventa completamente bianco in inverno per mimetizzarsi.
+### 77. Antarctic silverfish (*Pleuragramma antarctica*)
+- **Zona**: Glaciers
+- **File**: glaciers-silverfish-01.jpg
+- **Curiosità**: Pesce chiave dell’ecosistema antartico, vive sotto il ghiaccio.
 
-### 68. Rock ptarmigan (*Lagopus muta*)
-- **Zona**: Tundra
-- **File**: tundra-ptarmigan-01.jpg
-- **Curiosità**: Cambia piumaggio tre volte all’anno.
+### 78. Ice worm (*Mesenchytraeus solifugus*)
+- **Zona**: Glaciers
+- **File**: glaciers-ice-worm-01.jpg
+- **Curiosità**: Vive solo sul ghiaccio dei ghiacciai e muore se la temperatura sale.
 
-### 69. Arctic ground squirrel (*Urocitellus parryii*)
-- **Zona**: Tundra
-- **File**: tundra-ground-squirrel-01.jpg
-- **Curiosità**: Va in letargo profondo, con la temperatura corporea che scende sotto lo zero.
+### 79. Glacier stonefly (*Zapada glacier*)
+- **Zona**: Glaciers
+- **File**: glaciers-stonefly-01.jpg
+- **Curiosità**: Insetto che vive sui ghiacciai in scioglimento.
 
-### 70. Collared lemming (*Dicrostonyx groenlandicus*)
-- **Zona**: Tundra
-- **File**: tundra-lemming-01.jpg
-- **Curiosità**: Diventa bianco in inverno e ha un collare scuro visibile.
+### 80. Adélie penguin (*Pygoscelis adeliae*)
+- **Zona**: Glaciers
+- **File**: glaciers-adelie-penguin-01.jpg
+- **Curiosità**: Pinguino con l’anello bianco intorno agli occhi, vive solo in Antartide.
 
-### 71. Snow bunting (*Plectrophenax nivalis*)
-- **Zona**: Tundra
-- **File**: tundra-snow-bunting-01.jpg
-- **Curiosità**: Piccolo uccello che arriva tra i primi nella tundra in primavera.
+### 81. Crabeater seal (*Lobodon carcinophaga*)
+- **Zona**: Glaciers
+- **File**: glaciers-crabeater-seal-01.jpg
+- **Curiosità**: Si nutre quasi esclusivamente di krill, nonostante il nome.
 
-### 72. Arctic wolf (*Canis lupus arctos*)
-- **Zona**: Tundra
-- **File**: tundra-arctic-wolf-01.jpg
-- **Curiosità**: Sottospecie di lupo adattata al freddo estremo dell’Artico.
+### 82. Antarctic krill (*Euphausia superba*)
+- **Zona**: Glaciers
+- **File**: glaciers-krill-01.jpg
+- **Curiosità**: Base della catena alimentare antartica, vive in enormi sciami.
 
-### 73. Ivory gull (*Pagophila eburnea*)
-- **Zona**: Tundra
-- **File**: tundra-ivory-gull-01.jpg
-- **Curiosità**: Gabbiano completamente bianco che vive solo nelle regioni artiche.
+### 83. South polar skua (*Stercorarius maccormicki*)
+- **Zona**: Glaciers
+- **File**: glaciers-skua-01.jpg
+- **Curiosità**: Uccello predatore dell’Antartide, molto aggressivo.
 
 ---
 
-*Tundra: 10/10 completata.*
+*Glaciers: 10/10 completata.*
