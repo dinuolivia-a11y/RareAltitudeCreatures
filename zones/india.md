@@ -1,15 +1,18 @@
-# India – Rare Creatures (Western Ghats & Eastern Himalayas)
+# India – Rare Creatures (Western Ghats & Eastern Himalayas) – Expanded
 
-## Western Ghats (most endemic / rare)
-- **Malabar civet** (*Viverra civettina*) – Possibly one of the rarest mammals in the world. Nocturnal, Western Ghats endemic. Feared extinct at times; extremely few confirmed records.
-- **Lion-tailed macaque** (*Macaca silenus*) – Endemic to Western Ghats rainforests. Silver mane, tufted tail. Highly arboreal and endangered.
-- **Purple frog** (*Nasikabatrachus sahyadrensis*) – Living fossil. Spends almost entire life underground; emerges only a few days a year to breed. Western Ghats endemic.
-- **Galaxy frog** (*Astrobatrachus kurichiyana*) – Tiny, star-speckled frog discovered in Western Ghats leaf litter. Critically endangered.
-- **Gegeneophis valmiki** – Recently described blind caecilian (worm-like amphibian) from northern Western Ghats. Lives deep in soil.
+## Western Ghats
+1. **Malabar civet** (*Viverra civettina*) – Possibly one of the rarest mammals. Nocturnal, extremely few confirmed records.
+2. **Lion-tailed macaque** (*Macaca silenus*) – Endemic, silver mane, highly arboreal, endangered.
+3. **Purple frog** (*Nasikabatrachus sahyadrensis*) – Living fossil, emerges only a few days a year.
+4. **Galaxy frog** (*Astrobatrachus kurichiyana*) – Tiny star-speckled frog of leaf litter, critically endangered.
+5. **Gegeneophis valmiki** – Recently described blind caecilian from northern Western Ghats.
+6. **Nilgiri tahr** (*Nilgiritragus hylocrius*) – Mountain goat-like endemic of high Western Ghats.
+7. **Nilgiri marten** (*Martes gwatkinsii*) – India’s only marten, elusive.
 
 ## Eastern Himalayas / Northeast
-- **Bugun liocichla** (*Liocichla bugunorum*) – Bird known from a tiny area in Arunachal Pradesh. Extremely restricted range.
-- **Red panda** (*Ailurus fulgens*) – Eastern Himalayas specialist (also present in other countries). Rare and habitat-dependent.
+8. **Bugun liocichla** (*Liocichla bugunorum*) – Bird with extremely restricted range in Arunachal Pradesh.
+9. **Red panda** (*Ailurus fulgens*) – Eastern Himalayas specialist, rare.
+10. Various recently described frogs and small mammals from the Northeast biodiversity hotspot.
 
 ## Notes
-Western Ghats and Eastern Himalayas are global biodiversity hotspots with high endemism. Many amphibians and small mammals still being described.
+Western Ghats and Eastern Himalayas continue to yield new amphibian and small mammal species.

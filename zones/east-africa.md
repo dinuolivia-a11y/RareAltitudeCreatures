@@ -1,11 +1,16 @@
-# East Africa – Rare Creatures (Ethiopian Highlands & Bale Mountains)
+# East Africa – Rare Creatures (Ethiopian Highlands & Bale Mountains) – Expanded
 
-## High-elevation endemics (most restricted)
-- **Crocidura stanleyi** – Newly described pygmy shrew from Ethiopian highlands. One of the smallest mammals (~3 grams). Named after biologist Bill Stanley.
-- **Giant root-rat** (*Tachyoryctes macrocephalus*) – Endemic to Bale Mountains. Large burrowing rodent that shapes the entire plateau ecosystem.
-- **Mountain nyala** (*Tragelaphus buxtoni*) – Endemic antelope of Ethiopian highlands. Last large antelope described in Africa (1910).
-- **Bale Mountains frog** (*Ericabatrachus baleensis*) and related endemic amphibians – Several species known only from the Bale massif.
-- **Ethiopian wolf** (*Canis simensis*) – Africa’s most endangered canid. Lives only in high Ethiopian mountains. Highly specialized rodent hunter.
+## High-elevation endemics
+1. **Crocidura stanleyi** – Newly described pygmy shrew (~3 grams). One of the smallest mammals.
+2. **Giant root-rat** (*Tachyoryctes macrocephalus*) – Endemic to Bale Mountains, ecosystem engineer.
+3. **Mountain nyala** (*Tragelaphus buxtoni*) – Endemic antelope, last large one described in Africa (1910).
+4. **Ethiopian wolf** (*Canis simensis*) – Africa’s most endangered canid, specialized rodent hunter.
+5. **Bale Mountains frog** (*Ericabatrachus baleensis*) and other massif-endemic amphibians.
+6. **Bale two-horned chameleon** (*Trioceros balebicornutus*) and related high-elevation chameleons.
+7. **Walia ibex** (*Capra walie*) – Extremely rare mountain goat of the Simien Mountains.
+8. Various endemic shrews and small rodents still being described from the highlands.
+9. **Bale monkey** (*Chlorocebus djamdjamensis*) – Restricted to bamboo forests of Bale and Sidamo.
+10. Specialized high-elevation birds and insects of the Ethiopian plateau.
 
 ## Notes
-Ethiopian Highlands are a major center of endemism. Many small mammals and amphibians remain poorly studied or recently described.
+Ethiopian Highlands remain a major center of undescribed small-mammal and amphibian diversity.
