@@ -1,18 +1,25 @@
-# India – Rare Creatures (Western Ghats & Eastern Himalayas) – Expanded
+# India (Western Ghats) – Rare Creatures
 
-## Western Ghats
-1. **Malabar civet** (*Viverra civettina*) – Possibly one of the rarest mammals. Nocturnal, extremely few confirmed records.
-2. **Lion-tailed macaque** (*Macaca silenus*) – Endemic, silver mane, highly arboreal, endangered.
-3. **Purple frog** (*Nasikabatrachus sahyadrensis*) – Living fossil, emerges only a few days a year.
-4. **Galaxy frog** (*Astrobatrachus kurichiyana*) – Tiny star-speckled frog of leaf litter, critically endangered.
-5. **Gegeneophis valmiki** – Recently described blind caecilian from northern Western Ghats.
-6. **Nilgiri tahr** (*Nilgiritragus hylocrius*) – Mountain goat-like endemic of high Western Ghats.
-7. **Nilgiri marten** (*Martes gwatkinsii*) – India’s only marten, elusive.
+Solo specie con nome scientifico preciso e documentazione affidabile.
 
-## Eastern Himalayas / Northeast
-8. **Bugun liocichla** (*Liocichla bugunorum*) – Bird with extremely restricted range in Arunachal Pradesh.
-9. **Red panda** (*Ailurus fulgens*) – Eastern Himalayas specialist, rare.
-10. Various recently described frogs and small mammals from the Northeast biodiversity hotspot.
+1. **Lion-tailed macaque** (*Macaca silenus*)  
+   Rare primate with silver-white mane. Endemic to the rainforests of the Western Ghats.
 
-## Notes
-Western Ghats and Eastern Himalayas continue to yield new amphibian and small mammal species.
+2. **Nilgiri tahr** (*Nilgiritragus hylocrius*)  
+   Mountain goat endemic to the high grasslands and rocky slopes of the Western Ghats.
+
+3. **Eechathalakenda incognita**  
+   Point-endemic cyprinid fish described in 2026 from streams inside Periyar Tiger Reserve. Extremely restricted range.
+
+4. **Euphaea thosegharensis**  
+   Endemic damselfly described from high-elevation streams near Thoseghar (Maharashtra, Western Ghats).
+
+5. **Ghatiana atropurpurea**  
+   Brightly coloured freshwater crab endemic to the Western Ghats.
+
+6. **Gegeneophis chandgadi**  
+   Subterranean caecilian (limbless amphibian) described in 2026 from the northern Western Ghats. Micro-endemic.
+
+---
+
+*Solo specie precise e documentate, endemiche dei Western Ghats.*

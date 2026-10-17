@@ -1,16 +1,25 @@
-# East Africa – Rare Creatures (Ethiopian Highlands & Bale Mountains) – Expanded
+# East Africa (Ethiopian Highlands) – Rare Creatures
 
-## High-elevation endemics
-1. **Crocidura stanleyi** – Newly described pygmy shrew (~3 grams). One of the smallest mammals.
-2. **Giant root-rat** (*Tachyoryctes macrocephalus*) – Endemic to Bale Mountains, ecosystem engineer.
-3. **Mountain nyala** (*Tragelaphus buxtoni*) – Endemic antelope, last large one described in Africa (1910).
-4. **Ethiopian wolf** (*Canis simensis*) – Africa’s most endangered canid, specialized rodent hunter.
-5. **Bale Mountains frog** (*Ericabatrachus baleensis*) and other massif-endemic amphibians.
-6. **Bale two-horned chameleon** (*Trioceros balebicornutus*) and related high-elevation chameleons.
-7. **Walia ibex** (*Capra walie*) – Extremely rare mountain goat of the Simien Mountains.
-8. Various endemic shrews and small rodents still being described from the highlands.
-9. **Bale monkey** (*Chlorocebus djamdjamensis*) – Restricted to bamboo forests of Bale and Sidamo.
-10. Specialized high-elevation birds and insects of the Ethiopian plateau.
+Solo specie con nome scientifico preciso e documentazione affidabile.
 
-## Notes
-Ethiopian Highlands remain a major center of undescribed small-mammal and amphibian diversity.
+1. **Walia ibex** (*Capra walie*)  
+   Critically endangered wild goat endemic to the Simien Mountains of Ethiopia. Lives on steep rocky cliffs.
+
+2. **Gelada** (*Theropithecus gelada*)  
+   Endemic primate of the Ethiopian Highlands. Grass-eating monkey with distinctive red chest patch.
+
+3. **Ethiopian wolf** (*Canis simensis*)  
+   Africa’s rarest canid. Endemic to the highlands of Ethiopia. Specialized rodent hunter of the Afroalpine zone.
+
+4. **Mountain nyala** (*Tragelaphus buxtoni*)  
+   Large antelope endemic to the Bale Mountains and surrounding Ethiopian highlands.
+
+5. **Giant lobelia** (*Lobelia rhynchopetalum*)  
+   Iconic giant rosette plant of the Afroalpine zone in the Bale and Simien Mountains. Can reach several meters with its flower spike.
+
+6. **Simien stonecrop** (*Rosularia semiensis*)  
+   Small succulent endemic only to the rock faces of the Simien Mountains.
+
+---
+
+*Solo specie precise e documentate, endemiche degli Ethiopian Highlands.*
