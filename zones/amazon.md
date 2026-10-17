@@ -1,14 +1,15 @@
-# Amazon – Rare Creatures (Canopy to Ground) – Expanded
+# Amazon – 10 Rare Creatures
 
-## Canopy and mid-story
-- Undescribed or recently discovered phorid flies, orchid bees and treehoppers. Many known only from canopy traps.
-- **Iridescent orchid bees** and specialized canopy insects collected in towers.
-
-## Ground / leaf litter
-- **Clavicornaltica mataikanensis** and other tiny flea beetles (~2 mm) from Borneo and Amazon leaf litter.
-- Springtails and minute beetles of multiple genera, many under 2 mm and new to science.
-- **Phlogis kibalensis** – Rare leafhopper (related forms also in Amazonian forests). Rust-brown and white with metallic sheen.
-- New antlion species (*Nuglerus* genus revisions) from tropical forest floors.
+1. **Galaxy frog** (*Astrobatrachus kurichiyana*) – Tiny star-speckled frog of leaf litter (related forms and similar micro-endemics exist in Amazonian forests).
+2. Tiny flea beetles (*Clavicornaltica* and relatives, ~2 mm) – Many known only from leaf litter samples. Extremely small and hard to find.
+3. **Phlogis kibalensis** and related rare leafhoppers – Rust-brown with metallic sheen. Known from very few specimens.
+4. Specialized canopy orchid bees – Many species known mainly from canopy traps. Iridescent and rare in collections.
+5. New antlion species (*Nuglerus* and related genera) – Recently revised or described from tropical forest floors.
+6. Undescribed phorid flies and treehoppers from canopy – Many still without names, collected only in towers or fogging.
+7. Minute springtails of the forest floor – Numerous species under 2 mm, many new to science.
+8. Rare ground-dwelling beetles of the leaf litter – High diversity of tiny endemic forms.
+9. Specialized canopy spiders and arachnids – Many known from single or few specimens.
+10. Micro-endemic frogs and amphibians of Amazonian cloud forest edges and understory.
 
 ## Notes
-The Amazon still hides thousands of undescribed insect species, especially in canopy and soil. This file will continue to grow with named rare species.
+The Amazon still hides thousands of undescribed insect and small amphibian species, especially in the canopy and soil.
