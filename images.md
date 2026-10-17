@@ -49,4 +49,29 @@ Ogni immagine è associata alla creatura, zona e descrizione.
 
 ---
 
-*Zona Tian Shan: 6 immagini. Prossima zona in arrivo.*
+## Andes
+
+### 7. Andean leaf-eared mouse (*Phyllotis vaccarum*)
+- **Zona**: Andes
+- **File**: andean-leaf-eared-mouse-01.jpg
+- **Stile**: Realistico, scientifico
+- **Curiosità breve**: Il mammifero che vive più in alto al mondo. Esemplare vivo catturato sulla cima del Llullaillaco a 6739 m.
+- **Descrizione**: Topo di medie dimensioni con orecchie grandi a forma di foglia, pelo grigio-marrone con toni ocra, ventre chiaro. Vive su rocce vulcaniche estreme.
+
+### 8. Andean mountain cat (*Leopardus jacobita*)
+- **Zona**: Andes
+- **File**: andean-mountain-cat-01.jpg
+- **Stile**: Realistico, scientifico
+- **Curiosità breve**: Uno dei gatti selvatici più rari. Vive in habitat rocciosi sopra i 4000 m. Mantello spesso grigiastro con macchie.
+- **Descrizione**: Gatto di media taglia, coda folta anellata, espressione attenta, su terreno andino di alta quota.
+
+### 9. High-Andean lizard (*Liolaemus arequipensis*)
+- **Zona**: Andes (Peru)
+- **File**: liolaemus-arequipensis-01.jpg
+- **Stile**: Macro realistico
+- **Curiosità breve**: Specie di lucertola descritta di recente, vive fino a circa 4800 m nelle Ande peruviane.
+- **Descrizione**: Lucertola robusta con squame texturizzate in toni terrosi, su roccia soleggiata di alta quota.
+
+---
+
+*Zona Andes in corso. Prossime creature in arrivo.*
