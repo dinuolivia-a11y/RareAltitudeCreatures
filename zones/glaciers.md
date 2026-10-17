@@ -1,12 +1,17 @@
-# Glaciers & Ice – Rare Creatures
+# Glaciers & Ice – Rare Creatures (Expanded)
 
-Glacier surfaces and ice caves host specialized micro-fauna. Over 150 animal species associated with glaciers have been documented globally; ~73 are glacier specialists found nowhere else.
+Glacier surfaces host specialized micro-fauna. Over 150 associated species globally; ~73 are true glacier specialists.
 
-## Glacier specialists (most extreme)
-- **Tardigrades** (multiple genera, including new ones from New Zealand Southern Alps and Alps) – Live in the ice itself or meltwater. Some lineages have persisted on glaciers since the Pleistocene.
-- **Rotifers** and **Springtails** (Collembola) – Dominant groups on glacier surfaces. Many species known only from glacial habitats.
-- **Pilatobius glacialis**, **Grevenius cryophilus** and related tardigrades – Recently described from Svalbard glaciers.
-- **New Zealand ice shrimp** and other undescribed crustaceans, nematodes, flatworms on Southern Alps glaciers.
+1. Tardigrades of multiple genera (including new ones from New Zealand Southern Alps and European Alps) – Live in ice or meltwater. Some lineages persist since the Pleistocene.
+2. Rotifers – Dominant on many glacier surfaces.
+3. Springtails (Collembola) – Many species known only from glacial habitats.
+4. **Pilatobius glacialis**, **Grevenius cryophilus** and related Svalbard glacier tardigrades.
+5. New Zealand ice shrimp and other undescribed crustaceans on Southern Alps glaciers.
+6. Nematodes and flatworms living in glacier ice communities.
+7. Specialized mites and other micro-arthropods of ice surfaces.
+8. Ice-cave adapted springtails and troglobitic forms in alpine ice caves.
+9. Cold-loving algae and associated invertebrate grazers that support the food web.
+10. Occasional vertebrate visitors (ptarmigan, foxes) that use glacier margins, but the true specialists are the micro-fauna.
 
 ## Notes
-These communities are extremely threatened by glacier retreat. Many species may disappear as ice vanishes. Excellent example of “life where it seems impossible”.
+These communities are highly threatened by glacier retreat. Excellent example of life in extreme conditions.
