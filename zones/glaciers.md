@@ -1,17 +1,22 @@
-# Glaciers & Ice – Rare Creatures (Expanded)
+# Glaciers & Ice – Rare Creatures
 
-Glacier surfaces host specialized micro-fauna. Over 150 associated species globally; ~73 are true glacier specialists.
+Solo specie con nome scientifico preciso e documentazione affidabile. Specialisti del ghiaccio.
 
-1. Tardigrades of multiple genera (including new ones from New Zealand Southern Alps and European Alps) – Live in ice or meltwater. Some lineages persist since the Pleistocene.
-2. Rotifers – Dominant on many glacier surfaces.
-3. Springtails (Collembola) – Many species known only from glacial habitats.
-4. **Pilatobius glacialis**, **Grevenius cryophilus** and related Svalbard glacier tardigrades.
-5. New Zealand ice shrimp and other undescribed crustaceans on Southern Alps glaciers.
-6. Nematodes and flatworms living in glacier ice communities.
-7. Specialized mites and other micro-arthropods of ice surfaces.
-8. Ice-cave adapted springtails and troglobitic forms in alpine ice caves.
-9. Cold-loving algae and associated invertebrate grazers that support the food web.
-10. Occasional vertebrate visitors (ptarmigan, foxes) that use glacier margins, but the true specialists are the micro-fauna.
+1. **Andiperla willinki**  
+   Glacier stonefly of the Andes (Chile and Argentina). Lives permanently on and in glacial ice. One of the few insects specialized to glaciers.
 
-## Notes
-These communities are highly threatened by glacier retreat. Excellent example of life in extreme conditions.
+2. **Mesenchytraeus solifugus**  
+   Ice worm of North American glaciers (Pacific Northwest). Lives inside glacier ice and is active at near-freezing temperatures.
+
+3. **Cryobiotus klebelsbergi**  
+   Cryophilic tardigrade (water bear) specialized to cryoconite holes on Alpine glaciers.
+
+4. **Desoria calderonis**  
+   Alpine cryophilic springtail described from the last glacier of the Apennines (Italy).
+
+5. **Pilatobius glacialis**  
+   Tardigrade species described from Arctic cryoconite holes (Svalbard and Greenland).
+
+---
+
+*Solo specie precise e documentate come specialisti glaciali.*
