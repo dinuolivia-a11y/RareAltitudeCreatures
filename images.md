@@ -72,6 +72,20 @@ Ogni immagine è associata alla creatura, zona e descrizione.
 - **Curiosità breve**: Specie di lucertola descritta di recente, vive fino a circa 4800 m nelle Ande peruviane.
 - **Descrizione**: Lucertola robusta con squame texturizzate in toni terrosi, su roccia soleggiata di alta quota.
 
+### 10. Vicuña (*Vicugna vicugna*)
+- **Zona**: Andes
+- **File**: vicuna-01.jpg
+- **Stile**: Realistico, scientifico
+- **Curiosità breve**: Camelide di alta quota perfettamente adattato all’aria sottile e al freddo della puna.
+- **Descrizione**: Corpo snello ed elegante, collo lungo, pelo color cannella sul dorso e bianco sul ventre, grandi occhi scuri.
+
+### 11. Spectacled bear (*Tremarctos ornatus*)
+- **Zona**: Andes
+- **File**: spectacled-bear-01.jpg
+- **Stile**: Realistico, scientifico
+- **Curiosità breve**: L’unico orso del Sud America. Vive nelle foreste di nebbia e zone andine di media-alta quota.
+- **Descrizione**: Corpo robusto, pelo nerastro con caratteristici segni chiari intorno agli occhi, su roccia muschiosa.
+
 ---
 
-*Zona Andes in corso. Prossime creature in arrivo.*
+*Zona Andes: 5 immagini. Continuiamo a completarla.*
