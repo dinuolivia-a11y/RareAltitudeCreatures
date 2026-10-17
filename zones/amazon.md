@@ -1,11 +1,14 @@
-# Amazon – Rare Creatures (Canopy to Ground)
+# Amazon – Rare Creatures (Canopy to Ground) – Expanded
 
 ## Canopy and mid-story
-- Various undescribed or recently discovered phorid flies, orchid bees, and treehoppers. Many species known only from canopy traps and still unnamed.
+- Undescribed or recently discovered phorid flies, orchid bees and treehoppers. Many known only from canopy traps.
+- **Iridescent orchid bees** and specialized canopy insects collected in towers.
 
 ## Ground / leaf litter
-- **Tiny flea beetles and springtails** of multiple genera recently collected in primary forest leaf litter. Many under 2 mm and new to science.
-- Leafhoppers and other sap-suckers specialized to specific understory plants.
+- **Clavicornaltica mataikanensis** and other tiny flea beetles (~2 mm) from Borneo and Amazon leaf litter.
+- Springtails and minute beetles of multiple genera, many under 2 mm and new to science.
+- **Phlogis kibalensis** – Rare leafhopper (related forms also in Amazonian forests). Rust-brown and white with metallic sheen.
+- New antlion species (*Nuglerus* genus revisions) from tropical forest floors.
 
 ## Notes
-The Amazon still hides thousands of undescribed insect species, especially in the canopy and soil. This file will be expanded with specific named rare species as we research them.
+The Amazon still hides thousands of undescribed insect species, especially in canopy and soil. This file will continue to grow with named rare species.
