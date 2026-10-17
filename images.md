@@ -2,60 +2,60 @@
 
 ## Tian Shan (10/10)
 ## Andes (10/10)
-## Himalayas (in corso)
+## Himalayas (10/10)
 ## Madagascar (10/10)
 ## New Zealand (10/10)
 
-### 34. Kākāpō (*Strigops habroptilus*)
-- **Zona**: New Zealand
-- **File**: newzealand-kakapo-01.jpg
-- **Curiosità**: Unico pappagallo al mondo che non vola e vive di notte.
+### 44. Himalayan jumping spider (*Euophrys omnisuperstes*)
+- **Zona**: Himalayas
+- **File**: himalayas-jumping-spider-01.jpg
+- **Curiosità**: Uno dei ragni che vive più in alto al mondo, sopra i 6000 m.
 
-### 35. Tuatara (*Sphenodon punctatus*)
-- **Zona**: New Zealand
-- **File**: newzealand-tuatara-01.jpg
-- **Curiosità**: Unico sopravvissuto di un ordine di rettili vecchio di 200 milioni di anni.
+### 45. Himalayan pika (*Ochotona himalayana*)
+- **Zona**: Himalayas
+- **File**: himalayas-pika-01.jpg
+- **Curiosità**: Piccolo mammifero di alta quota, vive tra le rocce sopra i 4000 m.
 
-### 36. Takahē (*Porphyrio hochstetteri*)
-- **Zona**: New Zealand
-- **File**: newzealand-takahe-01.jpg
-- **Curiosità**: Grande uccello non volatore, considerato estinto e poi riscoperto.
+### 46. Himalayan snowcock (*Tetraogallus himalayensis*)
+- **Zona**: Himalayas
+- **File**: himalayas-snowcock-01.jpg
+- **Curiosità**: Grande uccello grigio con collare castano, vive sopra i 4000 m.
 
-### 37. Kea (*Nestor notabilis*)
-- **Zona**: New Zealand
-- **File**: newzealand-kea-01.jpg
-- **Curiosità**: Unico pappagallo alpino del mondo, molto intelligente e curioso.
+### 47. Snow leopard (*Panthera uncia*)
+- **Zona**: Himalayas
+- **File**: himalayas-snow-leopard-01.jpg
+- **Curiosità**: Il grande felino più elusivo delle alte montagne.
 
-### 38. New Zealand lesser short-tailed bat (*Mystacina tuberculata*)
-- **Zona**: New Zealand
-- **File**: newzealand-bat-01.jpg
-- **Curiosità**: Uno dei pochi pipistrelli al mondo che cammina a terra.
+### 48. Himalayan monal (*Lophophorus impejanus*)
+- **Zona**: Himalayas
+- **File**: himalayas-monal-01.jpg
+- **Curiosità**: Fagiano dalle piume iridescenti, simbolo del Nepal.
 
-### 39. Hamilton’s frog (*Leiopelma hamiltoni*)
-- **Zona**: New Zealand
-- **File**: newzealand-frog-01.jpg
-- **Curiosità**: Una delle rane più antiche e rare del mondo.
+### 49. Tibetan sand fox (*Vulpes ferrilata*)
+- **Zona**: Himalayas
+- **File**: himalayas-sand-fox-01.jpg
+- **Curiosità**: Volpe dell’altopiano tibetano, con la faccia squadrata.
 
-### 40. Kākā (*Nestor meridionalis*)
-- **Zona**: New Zealand
-- **File**: newzealand-kaka-01.jpg
-- **Curiosità**: Pappagallo di foresta endemico, con richiami forti e comportamento sociale.
+### 50. Himalayan brown bear (*Ursus arctos isabellinus*)
+- **Zona**: Himalayas
+- **File**: himalayas-brown-bear-01.jpg
+- **Curiosità**: Orso di alta quota dal pelo chiaro dorato.
 
-### 41. Yellow-eyed penguin (*Megadyptes antipodes*)
-- **Zona**: New Zealand
-- **File**: newzealand-penguin-01.jpg
-- **Curiosità**: Uno dei pinguini più rari al mondo, con la banda gialla intorno agli occhi.
+### 51. Bearded vulture (*Gypaetus barbatus*)
+- **Zona**: Himalayas
+- **File**: himalayas-bearded-vulture-01.jpg
+- **Curiosità**: Avvoltoio che si nutre di ossa e le lancia da grandi altezze.
 
-### 42. Black stilt (*Himantopus novaezelandiae*)
-- **Zona**: New Zealand
-- **File**: newzealand-stilt-01.jpg
-- **Curiosità**: Uno degli uccelli più rari della Nuova Zelanda, quasi completamente nero.
+### 52. Himalayan tahr (*Hemitragus jemlahicus*)
+- **Zona**: Himalayas
+- **File**: himalayas-tahr-01.jpg
+- **Curiosità**: Capra selvatica che vive su pendii rocciosi molto ripidi.
 
-### 43. New Zealand fairy tern (*Sternula nereis davisae*)
-- **Zona**: New Zealand
-- **File**: newzealand-tern-01.jpg
-- **Curiosità**: Una delle sterne più rare al mondo, con pochissime coppie rimaste.
+### 53. Satyr tragopan (*Tragopan satyra*)
+- **Zona**: Himalayas
+- **File**: himalayas-tragopan-01.jpg
+- **Curiosità**: Fagiano colorato con pelle blu intorno agli occhi.
 
 ---
 
-*New Zealand: 10/10 completata.*
+*Himalayas: 10/10 completata.*
