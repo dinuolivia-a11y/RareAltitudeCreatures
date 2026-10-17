@@ -2,7 +2,7 @@
 
 Ogni immagine è associata alla creatura, zona e descrizione.
 
-## Tian Shan
+## Tian Shan (in completamento a 10)
 
 ### 1. Ili pika (*Ochotona iliensis*)
 - **Zona**: Tian Shan (Central Asia)
@@ -49,57 +49,4 @@ Ogni immagine è associata alla creatura, zona e descrizione.
 
 ---
 
-## Andes
-
-### 7. Andean leaf-eared mouse (*Phyllotis vaccarum*)
-- **Zona**: Andes
-- **File**: andean-leaf-eared-mouse-01.jpg
-- **Stile**: Realistico, scientifico
-- **Curiosità breve**: Il mammifero che vive più in alto al mondo. Esemplare vivo catturato sulla cima del Llullaillaco a 6739 m.
-- **Descrizione**: Topo di medie dimensioni con orecchie grandi a forma di foglia, pelo grigio-marrone con toni ocra, ventre chiaro. Vive su rocce vulcaniche estreme.
-
-### 8. Andean mountain cat (*Leopardus jacobita*)
-- **Zona**: Andes
-- **File**: andean-mountain-cat-01.jpg
-- **Stile**: Realistico, scientifico
-- **Curiosità breve**: Uno dei gatti selvatici più rari. Vive in habitat rocciosi sopra i 4000 m. Mantello spesso grigiastro con macchie.
-- **Descrizione**: Gatto di media taglia, coda folta anellata, espressione attenta, su terreno andino di alta quota.
-
-### 9. High-Andean lizard (*Liolaemus arequipensis*)
-- **Zona**: Andes (Peru)
-- **File**: liolaemus-arequipensis-01.jpg
-- **Stile**: Macro realistico
-- **Curiosità breve**: Specie di lucertola descritta di recente, vive fino a circa 4800 m nelle Ande peruviane.
-- **Descrizione**: Lucertola robusta con squame texturizzate in toni terrosi, su roccia soleggiata di alta quota.
-
-### 10. Vicuña (*Vicugna vicugna*)
-- **Zona**: Andes
-- **File**: vicuna-01.jpg
-- **Stile**: Realistico, scientifico
-- **Curiosità breve**: Camelide di alta quota perfettamente adattato all’aria sottile e al freddo della puna.
-- **Descrizione**: Corpo snello ed elegante, collo lungo, pelo color cannella sul dorso e bianco sul ventre, grandi occhi scuri.
-
-### 11. Spectacled bear (*Tremarctos ornatus*)
-- **Zona**: Andes
-- **File**: spectacled-bear-01.jpg
-- **Stile**: Realistico, scientifico
-- **Curiosità breve**: L’unico orso del Sud America. Vive nelle foreste di nebbia e zone andine di media-alta quota.
-- **Descrizione**: Corpo robusto, pelo nerastro con caratteristici segni chiari intorno agli occhi, su roccia muschiosa.
-
-### 12. Andean condor (*Vultur gryphus*)
-- **Zona**: Andes
-- **File**: andean-condor-01.jpg
-- **Stile**: Realistico, scientifico
-- **Curiosità breve**: Uno dei più grandi uccelli volatori. Collare bianco e macchie bianche sulle ali, testa nuda rossastra.
-- **Descrizione**: Grande corpo nero, collare bianco, ali con macchie bianche, testa e collo nudi, becco potente. Su rupe andina.
-
-### 13. High-Andean Pristimantis frog
-- **Zona**: Andes
-- **File**: pristimantis-andean-01.jpg
-- **Stile**: Macro realistico
-- **Curiosità breve**: Diverse specie di rane Pristimantis endemiche delle foreste di nebbia andine, molte descritte di recente.
-- **Descrizione**: Piccola rana robusta con pelle texturizzata in toni terrosi, grandi occhi, su roccia muschiosa.
-
----
-
-*Zona Andes: 7 immagini. Zona completa come base.*
+*Tian Shan: 6/10. Completamento in corso.*
