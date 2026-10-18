@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rare Altitude Creatures</title>
+  <style>
+    body { font-family: system-ui, sans-serif; background: #0a0a1a; color: #eee; margin: 0; padding: 20px; }
+    h1 { text-align: center; }
+    .zones { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; max-width: 1000px; margin: 20px auto; }
+    .zone { background: #1a1a3a; padding: 15px; border-radius: 12px; cursor: pointer; text-align: center; transition: transform 0.2s; }
+    .zone:hover { transform: scale(1.05); }
+    .creatures { display: none; max-width: 800px; margin: 20px auto; }
+    .creature { background: #222; margin: 10px 0; padding: 15px; border-radius: 10px; }
+    .back { margin: 20px auto; display: block; padding: 10px 20px; background: #444; color: white; border: none; border-radius: 8px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h1>🌍 Rare Altitude Creatures</h1>
+  <p style="text-align:center;">Scegli una zona per esplorare le creature rare</p>
+  <div class="zones" id="zones">
+    <div class="zone" data-zone="madagascar">Madagascar</div>
+    <div class="zone" data-zone="newzealand">New Zealand</div>
+    <div class="zone" data-zone="himalayas">Himalayas</div>
+    <div class="zone" data-zone="deserts">Deserts</div>
+    <div class="zone" data-zone="tundra">Tundra</div>
+    <div class="zone" data-zone="glaciers">Glaciers</div>
+  </div>
+  <div class="creatures" id="creatures"></div>
+  <button class="back" id="back" style="display:none;">Torna alle zone</button>
+
+  <script>
+    const zones = {
+      madagascar: [
+        { name: "Aye-aye", sci: "Daubentonia madagascariensis", curiosita: "Ha il dito medio lunghissimo, usato per pescare larve dai tronchi." },
+        { name: "Fossa", sci: "Cryptoprocta ferox", curiosita: "Il più grande carnivoro dell’isola, parente dei manguste." },
+        { name: "Indri", sci: "Indri indri", curiosita: "Il lemure più grande vivente, senza coda, con richiami potentissimi." }
+      ],
+      newzealand: [
+        { name: "Kākāpō", sci: "Strigops habroptilus", curiosita: "Unico pappagallo al mondo che non vola e vive di notte." },
+        { name: "Tuatara", sci: "Sphenodon punctatus", curiosita: "Unico sopravvissuto di un ordine di rettili vecchio di 200 milioni di anni." }
+      ],
+      himalayas: [
+        { name: "Snow leopard", sci: "Panthera uncia", curiosita: "Il grande felino più elusivo delle alte montagne." },
+        { name: "Himalayan monal", sci: "Lophophorus impejanus", curiosita: "Fagiano dalle piume iridescenti, simbolo del Nepal." }
+      ],
+      deserts: [
+        { name: "Fennec fox", sci: "Vulpes zerda", curiosita: "Ha le orecchie più grandi di qualsiasi altra volpe, per dissipare il calore." }
+      ],
+      tundra: [
+        { name: "Arctic fox", sci: "Vulpes lagopus", curiosita: "Cambia colore con le stagioni, bianco in inverno e marrone in estate." }
+      ],
+      glaciers: [
+        { name: "Emperor penguin", sci: "Aptenodytes forsteri", curiosita: "Il pinguino più grande, resiste alle temperature più basse del pianeta." }
+      ]
+    };
+
+    document.querySelectorAll('.zone').forEach(z => {
+      z.onclick = () => {
+        const zone = z.dataset.zone;
+        const list = zones[zone] || [];
+        const container = document.getElementById('creatures');
+        container.innerHTML = `<h2>${z.textContent}</h2>` + list.map(c => `
+          <div class="creature">
+            <h3>${c.name}</h3>
+            <em>${c.sci}</em>
+            <p>${c.curiosita}</p>
+          </div>
+        `).join('');
+        document.getElementById('zones').style.display = 'none';
+        container.style.display = 'block';
+        document.getElementById('back').style.display = 'block';
+      };
+    });
+
+    document.getElementById('back').onclick = () => {
+      document.getElementById('zones').style.display = 'grid';
+      document.getElementById('creatures').style.display = 'none';
+      document.getElementById('back').style.display = 'none';
+    };
+  </script>
+</body>
+</html>
